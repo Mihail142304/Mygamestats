@@ -7746,10 +7746,8 @@
             }
         ]
     },
-
-
     	    "Astralix Fredbear": {
-        "Type": "Splash + passive ability",
+        "Type": "Splash",
         "Image": "rbxassetid://118846547193515",
         "Rarity": "Nightmare",
         "PlacePrice": 13500,
@@ -7787,8 +7785,6 @@
             }
         ]
     },
-
-
 		    "space Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://87971103094289",
@@ -7828,8 +7824,6 @@
             }
         ]
     },
-
-
 		   "Golden space Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://134991703728402",
@@ -7869,7 +7863,6 @@
             }
         ]
     },
-
 		    "Astral pro bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://132003715625819",
@@ -7909,7 +7902,6 @@
             }
         ]
     },
-
 		    "Space Foxy": {
         "Type": "Mega Single",
         "Image": "rbxassetid://105102155146770",
@@ -7949,8 +7941,6 @@
             }
         ]
     },
-
-	
 	"Jar of Pickles": {
         "Type": "Booster + Slow",
         "Image": "rbxassetid://98177156677827",
