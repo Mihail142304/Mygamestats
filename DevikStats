@@ -38,7 +38,7 @@
       }
     ]
   },
-    "Witch Toy Chica": {
+"Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
@@ -54,34 +54,34 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 600,
-                "Cooldown": 2.5,
-                "Poison": 450,
-                "PoisonLength": 3
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 3.5,
+                "Poison": 200,
+                "PoisonLength": 2
             },
             {
                 "Price": 800,
-                "Range": 22,
-                "Damage": 800,
-                "Cooldown": 2.3,
-                "Poison": 600,
+                "Range": 17,
+                "Damage": 300,
+                "Cooldown": 3,
+                "Poison": 400,
                 "PoisonLength": 3
             },
             {
                 "Price": 1000,
-                "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 2.2,
-                "Poison": 750,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 2.5,
+                "Poison": 600,
                 "PoisonLength": 3
             },
             {
                 "Price": 1200,
-                "Range": 28,
-                "Damage": 1200,
+                "Range": 25,
+                "Damage": 300,
                 "Cooldown": 2,
-                "Poison": 900,
+                "Poison": 800,
                 "PoisonLength": 3
             }
         ]
