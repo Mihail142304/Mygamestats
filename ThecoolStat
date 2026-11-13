@@ -287,7 +287,7 @@
         "Rarity": "Epic",
         "PlacePrice": 150,
         "Offset": 0,
-        "Max": 2,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -332,7 +332,7 @@
         "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -371,7 +371,7 @@
         "Rarity": "Secret",
         "PlacePrice": 2026,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -452,9 +452,9 @@
                 "Cooldown": 0.085,
                 "Slow": 0.6,
                 "SlowTime": 1
-            }
-        ]
-    },
+      }
+    ]
+  },
   "Withered Chica": {
     "Type": "Single",
     "Image": "rbxassetid://16632209265",
