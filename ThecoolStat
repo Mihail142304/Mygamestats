@@ -407,7 +407,7 @@
     "Plush Freddy": {
         "Type": "AOE+Continuous+Slow",
         "Image": "rbxassetid://11265967228411",
-        "Rarity": "Secret",
+        "Rarity": "NightMare",
         "PlacePrice": 999,
         "Offset": 0,
         "Max": 2,
