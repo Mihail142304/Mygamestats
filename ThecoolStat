@@ -286,7 +286,6 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Epic",
         "PlacePrice": 150,
-        "Offset": 0,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -331,7 +330,6 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
-        "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -370,7 +368,6 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
         "PlacePrice": 2026,
-        "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -409,7 +406,6 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Nightmare",
         "PlacePrice": 999,
-        "Offset": 0,
         "Max": 2,
         "Passive": {
         "Name": "Slow",
