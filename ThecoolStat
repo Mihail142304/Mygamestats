@@ -283,7 +283,7 @@
     },
     "Plush Chica": {
         "Type": "AOE",
-        "Image": "rbxassetid://11265967228411",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Epic",
         "PlacePrice": 150,
         "Offset": 0,
@@ -328,7 +328,7 @@
     },
     "Plush Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://11265967228411",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -367,7 +367,7 @@
     },
     "Plush Bonnie": {
         "Type": "AOE+Continuous",
-        "Image": "rbxassetid://11265967228411",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
         "PlacePrice": 2026,
         "Offset": 0,
@@ -406,14 +406,14 @@
     },
     "Plush Freddy": {
         "Type": "AOE+Continuous+Slow",
-        "Image": "rbxassetid://11265967228411",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Nightmare",
         "PlacePrice": 999,
         "Offset": 0,
         "Max": 2,
         "Passive": {
-      "Name": "Slow",
-      "Description": "Slows enemies"
+        "Name": "Slow",
+        "Description": "Slows enemies"
     },
         "hitboxOffset": {
             "X": 0,
