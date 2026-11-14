@@ -283,7 +283,7 @@
     },
     "Plush Chica": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://16620303027",
         "Rarity": "Epic",
         "PlacePrice": 150,
         "Max": 4,
@@ -327,7 +327,7 @@
     },
     "Plush Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://16620218689",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -365,7 +365,7 @@
     },
     "Plush Bonnie": {
         "Type": "AOE+Continuous",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://16620268084",
         "Rarity": "Secret",
         "PlacePrice": 2026,
         "Max": 1,
