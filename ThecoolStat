@@ -645,7 +645,7 @@
   },
     "Old FredBear": {
         "Type": "Support",
-        "Image": "rbxassetid://99526373086851",
+        "Image": "rbxassetid://128008620305646",
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
@@ -1121,7 +1121,7 @@
   },
   "Ruined Tarnishead Spring Bonnie": {
     "Type": "Pierce + Slow",
-    "Image": "rbxassetid://127294918215621",
+    "Image": "rbxassetid://135424607150993",
     "Rarity": "Secret",
     "PlacePrice": 17777,
     "Max": 3,
