@@ -402,7 +402,7 @@
         ]
     },
     "Plush Freddy": {
-        "Type": "AOE+Continuous+Slow",
+        "Type": "Pierce+Continuous+Slow",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Nightmare",
         "PlacePrice": 999,
