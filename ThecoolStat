@@ -363,7 +363,7 @@
             }
         ]
     },
-    "Plush Bonni": {
+    "Plush Bonnie": {
         "Type": "AOE+Continuous",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
@@ -606,44 +606,6 @@
     ]
   },
   "Rockin Bonnie": {
-    "Type": "AOE",
-    "Image": "rbxassetid://17689695988",
-    "Rarity": "Secret",
-    "PlacePrice": 400,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 100,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 30000,
-        "Range": 25,
-        "Damage": 120,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 40000,
-        "Range": 25,
-        "Damage": 140,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 50000,
-        "Range": 30,
-        "Damage": 160,
-        "Cooldown": 0.5
-      }
-    ]
-  },
-  "Plush Bonnie": {
     "Type": "AOE",
     "Image": "rbxassetid://17689695988",
     "Rarity": "Secret",
