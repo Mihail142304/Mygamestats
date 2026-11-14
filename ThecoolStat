@@ -683,7 +683,7 @@
   },
     "Old FredBear": {
         "Type": "Support",
-        "Image": "rbxassetid://18977659349",
+        "Image": "rbxassetid://99526373086851",
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
@@ -726,7 +726,7 @@
     },
   "Toy Freddy": {
     "Type": "Single",
-    "Image": "rbxassetid://16781095520",
+    "Image": "rbxassetid://1678109552",
     "Rarity": "Rare",
     "PlacePrice": 800,
     "Max": 3,
@@ -1159,7 +1159,7 @@
   },
   "Ruined Tarnishead Spring Bonnie": {
     "Type": "Pierce + Slow",
-    "Image": "rbxassetid://124691768644136",
+    "Image": "rbxassetid://127294918215621",
     "Rarity": "Secret",
     "PlacePrice": 17777,
     "Max": 3,
