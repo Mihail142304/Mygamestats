@@ -422,7 +422,7 @@
                 "Range": 25,
                 "Damage": 150,
                 "Cooldown": 0.5,
-                "Slow": 0.3,
+                "Slow": 0.6,
                 "SlowTime": 1
             },
             {
@@ -430,7 +430,7 @@
                 "Range": 30,
                 "Damage": 250,
                 "Cooldown": 0.25,
-                "Slow": 0.4,
+                "Slow": 0.6,
                 "SlowTime": 1
             },
             {
@@ -438,7 +438,7 @@
                 "Range": 35,
                 "Damage": 350,
                 "Cooldown": 0.1,
-                "Slow": 0.5,
+                "Slow": 0.55,
                 "SlowTime": 1
             },
             {
@@ -446,7 +446,7 @@
                 "Range": 40,
                 "Damage": 500,
                 "Cooldown": 0.085,
-                "Slow": 0.6,
+                "Slow": 0.55,
                 "SlowTime": 1
       }
     ]
@@ -1165,7 +1165,7 @@
         "Range": 31,
         "Damage": 666,
         "Cooldown": 0.5,
-        "Slow": 0.55,
+        "Slow": 0.6,
         "SlowTime": 1
       }
     ]
