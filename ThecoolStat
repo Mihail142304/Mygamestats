@@ -1170,6 +1170,57 @@
       }
     ]
   },
+  "Turkey Chica": {
+    "Type": "Pierce + Slow",
+    "Image": "rbxassetid://135424607150993",
+    "Rarity": "Nightmare",
+    "PlacePrice": 444,
+    "Max": 4,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": -0.5,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 19,
+        "Damage": 150,
+        "Cooldown": 0.6,
+        "Slow": 0.6,
+        "SlowTime": 1
+      },
+      {
+        "Price": 555,
+        "Range": 21,
+        "Damage": 200,
+        "Cooldown": 0.55,
+        "Slow": 0.6,
+        "SlowTime": 1
+      },
+      {
+        "Price": 666,
+        "Range": 23,
+        "Damage": 250,
+        "Cooldown": 0.5,
+        "Slow": 0.6,
+        "SlowTime": 1
+      },
+      {
+        "Price": 777,
+        "Range": 25,
+        "Damage": 300,
+        "Cooldown": 0.5,
+        "Slow": 0.55,
+        "SlowTime": 1
+      }
+    ]
+  },
   "Marionette's Puppeteer": {
     "Type": "AOE",
     "Image": "rbxassetid://18151575297",
