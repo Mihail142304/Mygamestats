@@ -378,7 +378,7 @@
     },
     "Plush Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://106896230126218",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -416,7 +416,7 @@
     },
     "Plush Bonnie": {
         "Type": "AOE+Continuous",
-        "Image": "rbxassetid://16620268084",
+        "Image": "rbxassetid://139455311437478",
         "Rarity": "Secret",
         "PlacePrice": 2026,
         "Max": 1,
@@ -454,7 +454,7 @@
     },
     "Plush Freddy": {
         "Type": "Pierce+Continuous+Slow",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://84907266071091",
         "Rarity": "Nightmare",
         "PlacePrice": 999,
         "Max": 2,
@@ -1223,7 +1223,7 @@
   },
   "Turkey Chica": {
     "Type": "Pierce + Slow",
-    "Image": "rbxassetid://135424607150993",
+    "Image": "rbxassetid://72426253902409",
     "Rarity": "Nightmare",
     "PlacePrice": 444,
     "Max": 4,
