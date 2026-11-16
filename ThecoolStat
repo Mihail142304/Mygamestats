@@ -283,7 +283,7 @@
     },
     "Shadow FredBonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://112659672284119",
+        "Image": "rbxassetid://77732338020533",
         "Rarity": "Nightmare",
         "PlacePrice": 40000,
         "Offset": 0,
@@ -334,7 +334,7 @@
     },
     "Plush Chica": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620303027",
+        "Image": "rbxassetid://111748884195677",
         "Rarity": "Epic",
         "PlacePrice": 150,
         "Max": 4,
