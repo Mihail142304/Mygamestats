@@ -694,49 +694,57 @@
       }
     ]
   },
-    "Old FredBear": {
-        "Type": "Support",
-        "Image": "rbxassetid://128008620305646",
-        "Rarity": "Epic",
-        "PlacePrice": 1000,
-        "NoEnemyAttack": true,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.03
-            },
-            {
-                "Price": 1700,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.6
-            },
-            {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.09
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.12
-            }
-        ]
+  "Old Fredbear": {
+    "Type": "Cone AOE slow",
+    "Image": "rbxassetid://128008620305646",
+    "Rarity": "Epic",
+    "PlacePrice": 1250,
+    "Max": 1,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies"
     },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": -0.5,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 0,
+        "Cooldown": 0.1,
+        "Slow": 0.9,
+        "SlowTime": 1
+      },
+      {
+        "Price": 1500,
+        "Range": 12,
+        "Damage": 0,
+        "Cooldown": 0.1,
+        "Slow": 0.875,
+        "SlowTime": 1
+      },
+      {
+        "Price": 1750,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 0.1,
+        "Slow": 0.85,
+        "SlowTime": 1
+      },
+      {
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 0,
+        "Cooldown": 0.1,
+        "Slow": 0.8,
+        "SlowTime": 1
+      }
+    ]
+  },
   "Toy Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://16781095520",
