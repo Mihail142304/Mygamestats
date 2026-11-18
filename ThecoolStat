@@ -377,7 +377,7 @@
         ]
     },
     "Plush Foxy": {
-        "Type": "AOE",
+        "Type": "Sniper (AOE)",
         "Image": "rbxassetid://106896230126218",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
@@ -391,26 +391,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 500,
-                "Cooldown": 10
+                "Damage": 60,
+                "Cooldown": 3
             },
             {
                 "Price": 1250,
-                "Range": 25,
-                "Damage": 300,
-                "Cooldown": 6.5
+                "Range": 30,
+                "Damage": 75,
+                "Cooldown": 2.5
             },
             {
                 "Price": 1500,
-                "Range": 25,
-                "Damage": 350,
-                "Cooldown": 5
+                "Range": 35,
+                "Damage": 90,
+                "Cooldown": 2
             },
             {
                 "Price": 350,
-                "Range": 25,
-                "Damage": 250,
-                "Cooldown": 3.5
+                "Range": 40,
+                "Damage": 100,
+                "Cooldown": 1.75
             }
         ]
     },
@@ -446,7 +446,7 @@
             },
             {
                 "Price": 2500,
-                "Range": 25,
+                "Range": 27,
                 "Damage": 50,
                 "Cooldown": 0.05
             }
@@ -1175,7 +1175,7 @@
     "Image": "rbxassetid://135424607150993",
     "Rarity": "Secret",
     "PlacePrice": 17777,
-    "Max": 3,
+    "Max": 2,
     "Passive": {
       "Name": "Slow",
       "Description": "Slows enemies"
@@ -1215,7 +1215,7 @@
         "Price": 9999,
         "Range": 31,
         "Damage": 666,
-        "Cooldown": 0.5,
+        "Cooldown": 0.55,
         "Slow": 0.6,
         "SlowTime": 1
       }
@@ -1226,7 +1226,7 @@
     "Image": "rbxassetid://72426253902409",
     "Rarity": "Nightmare",
     "PlacePrice": 444,
-    "Max": 4,
+    "Max": 5,
     "Passive": {
       "Name": "Slow",
       "Description": "Slows enemies"
@@ -1264,9 +1264,9 @@
       },
       {
         "Price": 777,
-        "Range": 25,
-        "Damage": 300,
-        "Cooldown": 0.5,
+        "Range": 26,
+        "Damage": 325,
+        "Cooldown": 0.45,
         "Slow": 0.55,
         "SlowTime": 1
       }
