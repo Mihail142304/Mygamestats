@@ -656,6 +656,45 @@
       }
     ]
   },
+  "Plush Brother": {
+    "Type": "Pierce",
+    "Image": "rbxassetid://16632217188",
+    "Rarity": "Secret",
+    "PlacePrice": 47000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": 0.25,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 100,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 50000,
+        "Range": 25,
+        "Damage": 125,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 60000,
+        "Range": 30,
+        "Damage": 150,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 70000,
+        "Range": 35,
+        "Damage": 200,
+        "Cooldown": 0.1
+      }
+    ]
+  },
   "Rockin Bonnie": {
     "Type": "AOE",
     "Image": "rbxassetid://17689695988",
